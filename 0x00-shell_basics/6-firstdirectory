@@ -1,2 +1,2 @@
-#!/bin/bash
-mkdir my_first_directory /tmp/
+#!/brectory sn/bash
+mktemp -d -t /tmp/my_first_directory/
