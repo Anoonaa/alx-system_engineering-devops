@@ -1,2 +1,2 @@
-#!/brectory sn/bash
+#!/bin/bash
 mktemp -d -t /tmp/my_first_directory/
