@@ -1,2 +1,6 @@
 #!/bin/bash
 cat /etc/passwd
+#!/bin/bash
+echo "Hello,World"
+#!/bin/bash
+echo "Hello,World"
