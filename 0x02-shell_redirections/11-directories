@@ -1,4 +1,4 @@
 #!/bin/bash
-find . -type d -print | wc -l                                                                                                   
+find . -type d -not -name '.' | wc -l                                                                                                   
 
 
