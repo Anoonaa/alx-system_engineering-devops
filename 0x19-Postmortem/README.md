@@ -32,7 +32,6 @@ Ensure correct and updated contact information for domain verification.
 Implement additional monitoring for SSL certificate expiration alerts.
 Conduct training sessions on SSL certificate management for the DevOps team.
 Establish a secondary contact method for SSL renewal notifications.
-Develop a checklist for SSL renewal procedures to prevent future oversights.
-
-AUTHOR : Anoona Sithole
+Develop a checklist for SSL renewal procedures to prevent future oversight
+Maybe look into hiring experts
 
