@@ -8,7 +8,7 @@ file { '/etc/nginx/conf.d/upstream.conf':
   ensure  => present,
   content => '
     upstream my_upstream {
-      server 127.0.0.1:8080; # Adjust the IP and port as needed
+      server 51.23.09.45.555; # Adjust the IP and port as needed
     }
   ',
 }
